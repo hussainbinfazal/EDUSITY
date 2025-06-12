@@ -1,6 +1,10 @@
-EDUSITY - University Landing Page
+# EDUSITY - University Landing Page
+--
 Show Image Show Image Show Image
-A modern, responsive university landing page built with React and Tailwind CSS. This project showcases contemporary web design principles with smooth animations, interactive components, and mobile-first responsive design.
+
+## **A modern, responsive university landing page built with React and Tailwind CSS.**
+ 
+## **This project showcases contemporary web design principles with smooth animations, interactive components, and mobile-first responsive design. **
 🌟 Features
 🎨 Modern UI/UX Design
 
