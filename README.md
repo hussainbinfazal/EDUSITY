@@ -20,27 +20,31 @@ Mobile-first responsive design
 Modern typography and spacing
 
 💬 Student Testimonials
-    
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f9dabebd-555e-418c-a7f0-a5fbd7288680" alt="EDUSITY Full Homepage" width="700">
-  <p><em>Complete homepage showcasing all sections</em></p>
+    <p><em>Testimonials from students around the world</em></p>
+
 </div>
 🖼️ Campus Gallery
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b7a66069-7673-4654-b7aa-5636084939a6" alt="Programs and About Section" width="700">
-  <p><em>Academic programs and university information</em></p>
+    <p><em>Interactive photo gallery showcasing campus life</em></p>
+
 </div>
 🎓 About University
 <div align="center">
   <img src="https://github.com/user-attachments/assets/328b5fcc-8ccd-4c28-8922-f10ee3625e69" alt="Campus Photo Gallery" width="700">
-  <p><em>Interactive photo gallery showcasing campus life</em></p>
+      <p><em>Complete University information</em></p>
+
 </div>
 🎓 Programs & About Section
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/61ed86bd-ca67-4d13-a960-05665c646fe4" alt="Student Testimonials Section" width="700">
-  <p><em>Testimonials from students around the world</em></p>
+    <p><em>Academic programs and university information</em></p>
+
 </div>
 📞 Contact Section
 <div align="center">
@@ -82,7 +86,9 @@ npm or yarn package manager
 Installation
 
 Clone the repository
-bashgit clone https://github.com/yourusername/edusity-landing-page.git
+
+bashgit clone https://github.com/hussainbinfazal/EDUSITY
+
 cd edusity-landing-page
 
 Install dependencies
@@ -137,10 +143,6 @@ Performance Optimized: Lazy loading, optimized images, and efficient React patte
 Cross-Browser Compatible: Tested across modern browsers for consistent experience
 SEO Ready: Proper meta tags and semantic structure for search engine optimization
 
-📸 Screenshots
-Add your screenshots here to showcase the design and responsive behavior
-🌐 Live Demo
-View Live Demo <!-- Replace with your actual demo URL -->
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
