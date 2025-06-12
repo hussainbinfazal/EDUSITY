@@ -1,12 +1,12 @@
 # EDUSITY - University Landing Page
 
-
 A modern, responsive university landing page built with React and Tailwind CSS.
 
 🖥️ Live Preview
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/09778607-d9a7-4827-8452-65359465f084" alt="EDUSITY Hero Section" width="800">
+<img src="https://github.com/user-attachments/assets/c1ed3df7-0861-4b32-9c4b-b5837f9b4a24"
+   alt="EDUSITY Hero Section" width="800">
   <p><em>Hero Section - Welcome to EDUSITY</em></p>
 </div>
 This project showcases contemporary web design principles with smooth animations, interactive components, and mobile-first responsive design.
@@ -19,30 +19,32 @@ Smooth scroll animations and transitions
 Mobile-first responsive design
 Modern typography and spacing
 
-🏠 Homepage Overview
-
+💬 Student Testimonials
+    
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f9dabebd-555e-418c-a7f0-a5fbd7288680" alt="EDUSITY Full Homepage" width="700">
   <p><em>Complete homepage showcasing all sections</em></p>
 </div>
-🎓 Programs & About Section
+🖼️ Campus Gallery
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b7a66069-7673-4654-b7aa-5636084939a6" alt="Programs and About Section" width="700">
   <p><em>Academic programs and university information</em></p>
 </div>
-🖼️ Campus Gallery
+🎓 About University
 <div align="center">
   <img src="https://github.com/user-attachments/assets/328b5fcc-8ccd-4c28-8922-f10ee3625e69" alt="Campus Photo Gallery" width="700">
   <p><em>Interactive photo gallery showcasing campus life</em></p>
 </div>
-💬 Student Testimonials
+🎓 Programs & About Section
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/61ed86bd-ca67-4d13-a960-05665c646fe4" alt="Student Testimonials Section" width="700">
   <p><em>Testimonials from students around the world</em></p>
 </div>
 📞 Contact Section
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c1ed3df7-0861-4b32-9c4b-b5837f9b4a24" alt="Contact Form and Footer" width="700">
+  <img src="https://github.com/user-attachments/assets/09778607-d9a7-4827-8452-65359465f084" alt="Contact Form and Footer" width="700">
   <p><em>Contact form and footer with university information</em></p>
 </div>
 📱 Fully Responsive
