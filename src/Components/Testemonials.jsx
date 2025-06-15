@@ -21,7 +21,7 @@ const testimonials = [
   {
     name: "Samuel Lee",
     testimonial:
-      "Edusity has provided me with the best learning experience. The resources and tools available for students are exceptional, and I feel well-prepared for my career.",
+      "Edusity has provided me with the best learning experience. The resources and tools available for students are exceptional.",
     tagline: "Edusity, KSA",
     image: "https://randomuser.me/api/portraits/men/55.jpg",
   },
@@ -56,7 +56,7 @@ const testimonials = [
   {
     name: "Emily Davis",
     testimonial:
-      "'Edusity has not only given me an excellent education but has also empowered me to explore my passions. The support from faculty and peers is what makes this place so unique.'",
+      "'Edusity has not only given me an excellent education but has also empowered me to explore my passions.'",
     tagline: "Edusity, Australia",
     image: "https://randomuser.me/api/portraits/women/74.jpg",
   },
