@@ -9,6 +9,7 @@
 body {
   font-family: "Outfit", Helvetica, sans-serif;
   background-color: #f4f4f4;
+  overflow-x: hidden;
 }
 
 .fade-in-out {
