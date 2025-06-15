@@ -35,7 +35,7 @@ const testimonials = [
   {
     name: "Mark Wilson",
     testimonial:
-      "'I was impressed by the level of support I received at Edusity. From academic guidance to career counseling, the staff is always there to help. The campus is vibrant and full of life.'",
+      "'I was impressed by the level of support I received at Edusity. From academic guidance to career counseling.'",
     tagline: "Edusity, UK",
     image: "https://randomuser.me/api/portraits/men/44.jpg",
   },
@@ -49,7 +49,7 @@ const testimonials = [
   {
     name: "Liam Brown",
     testimonial:
-      "'I was hesitant at first, but Edusity has completely changed my perspective. The cutting-edge technology used in my courses, along with the collaborative atmosphere, has made learning enjoyable.'",
+      "'I was hesitant at first, but Edusity has completely changed my perspective.'",
     tagline: "Edusity, Canada",
     image: "https://randomuser.me/api/portraits/men/61.jpg",
   },
@@ -70,7 +70,7 @@ const testimonials = [
   {
     name: "Maria Gonzalez",
     testimonial:
-      "'Edusity has given me the tools and knowledge to pursue my career dreams. I’m grateful for the rigorous academic environment and the lifelong friendships I've made here.",
+      "'Edusity has given me the tools and knowledge to pursue my career dreams. I’m grateful for the rigorous academic environment .",
     tagline: "Edusity, Argentina'",
     image: "https://randomuser.me/api/portraits/women/92.jpg",
   },
